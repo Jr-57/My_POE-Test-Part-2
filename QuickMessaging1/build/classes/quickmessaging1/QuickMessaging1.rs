@@ -1,0 +1,2 @@
+quickchatmessaging.QuickChatMessaging
+quickchatmessaging.Message
